@@ -33,7 +33,6 @@ __author__ = 'Thomas'
 
 # Logger: used for debug lines, like "LOGGER.debug(xyz)". These
 # statements will show up in the command line when running Mycroft.
-LOGGER = getLogger(__Thomas__)
 
 # The logic of each skill is contained within its own class, which inherits
 # base methods from the MycroftSkill class with the syntax you can see below:
